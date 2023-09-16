@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> 👋 Hi, I’m Kawan Oliveira! 😊
           👋 Hi, I’m Kawan Oliveira! 😊
 
 
