@@ -25,11 +25,7 @@
 <div class="box">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" />
 </div>
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
+
 
 
 
