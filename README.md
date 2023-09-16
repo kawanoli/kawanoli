@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m Kawan Oliveira! 😊</h1>
+<h1 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> 👋 Hi, I’m Kawan Oliveira! 😊</h1>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> 
