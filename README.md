@@ -1,4 +1,7 @@
+<!---
 ![Banner do GitHub](https://github.com/user-attachments/assets/32d2219a-902b-4af2-989f-98ddee670a7f)
+--->
+<img src="https://github.com/user-attachments/assets/32d2219a-902b-4af2-989f-98ddee670a7f"/>
 
 <h1>Welcome to my Github!😊</h1>
 
